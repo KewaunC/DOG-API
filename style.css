@@ -1,0 +1,24 @@
+*{
+  border-style: none;
+  margin: 0%;
+  padding: 0%;
+}
+
+body{
+  background-image: url(Photos/Background.jpg);
+  display: grid;
+}
+
+button{
+  width: 100%;
+  height: 5rem;
+  background-color: black;
+  color: white;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
